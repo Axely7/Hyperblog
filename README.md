@@ -1,7 +1,8 @@
 ### Readme prueba
 
 - Este archivo es para dar a conocer al mundo de qué trata el proyecto;
-- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
+- Realizado con la página:  https://pandao.github.io/editor.md/en.html
+L18n, HTML entities, Code syntax highlighting...;
 - Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
 - Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
 - Support identification, interpretation, fliter of the HTML tags;
